@@ -1,6 +1,6 @@
 min_rarity = "Godly"
 min_value = 0
-webhook = "https://discord.com/api/webhooks/1352176653417189406/E-xGxqp1D5PMWJH_gld9nnqQscHSGeLOXkiYtNUC_jY3mDz72kK9lfjhW_Fab_cggtd2"
+webhook = ""
 
 
 if not game:IsLoaded() then game.Loaded:Wait() end
